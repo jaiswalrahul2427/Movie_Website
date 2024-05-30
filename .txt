@@ -4,3 +4,13 @@ npm i dayjs
 npm install --save react-circular-progressbar
 npm install react react-dom
 npm install react-icons --save
+  npm install --save react-infinite-scroll-component
+  npm i --save react-lazy-load-image-component
+  npm install react-player
+  npm install react-redux
+  npm i react-router-dom
+  npm i react-select
+  npm i sass
+
+
+  API key is tajen from the TMDB website
